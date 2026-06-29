@@ -6,7 +6,7 @@ Drag & drop file upload (TXT, PDF, DOCX, HTML, CSV)
 Real-time text comparison (Side-by-side + Diff view)
 Animated similarity gauge with color-coded risk levels
 Interactive charts (Chart.js) for distribution & source analysis
-Scan history with localStorage persistence
+Scan history with localStorage persistence 
 PDF export using jsPDF
 Responsive design with dark theme & gradient animations
 🐍 Backend (Flask API)
