@@ -1,4 +1,4 @@
- # Plagiarism-Detection-System
+  # Plagiarism-Detection-System
 🎨 Frontend (Standalone Web App)
 A fully interactive, glassmorphism-designed single-page application with:
 Drag & drop file upload (TXT, PDF, DOCX, HTML, CSV)
